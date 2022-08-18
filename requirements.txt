@@ -1,0 +1,5 @@
+concurrent-log-handler==0.9.20
+portalocker==2.5.1
+pywin32==228
+supervisor==4.2.4
+supervisor-win==4.6.0
